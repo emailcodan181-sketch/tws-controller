@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.TWSController" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#00F5FF</item>
+        <item name="android:colorBackground">#05050C</item>
+        <item name="android:statusBarColor">#05050C</item>
+    </style>
+    <color name="bg_primary">#05050C</color>
+</resources>
